@@ -8,7 +8,7 @@ Computer Science undergraduate building backend systems and AI/LLM pipelines. Cu
 
 ## About Me
 
-- 🎓 B.Tech Computer Science — SIRT Bhopal (Batch 2028)
+- 🎓 B.Tech Computer Science — SIRTE Bhopal (Batch 2028)
 - 📍 Bhopal, Madhya Pradesh, India
 - 🔭 Interested in backend engineering, REST API design, and AI/RAG systems
 - 📌 Preparing for software engineering internships and placements
