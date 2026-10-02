@@ -1,76 +1,78 @@
-# Prasenjit Shinde
+<div align="center">
 
-**Backend + AI/LLM Engineering Student**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prasenjit%20Shinde&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%2B%20AI%2FLLM%20Engineer%20in%20Progress&descSize=18&descAlignY=58&descColor=c9d1d9" alt="header" />
 
-Computer Science undergraduate building backend systems and AI/LLM pipelines. Currently focused on core CS fundamentals and preparing for software engineering placements.
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=CS+undergrad+%40+SIRT+Bhopal+%F0%9F%8E%93;Building+backend+systems+%26+AI+pipelines;Exploring+LangChain+%C2%B7+RAG+%C2%B7+LLMs;Preparing+for+SWE+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ## About Me
 
-- 🎓 B.Tech Computer Science — SIRTE Bhopal (Batch 2028)
+- 🎓 B.Tech Computer Science — SIRT Bhopal (Batch 2028)
 - 📍 Bhopal, Madhya Pradesh, India
 - 🔭 Interested in backend engineering, REST API design, and AI/RAG systems
-- 📌 Preparing for software engineering internships and placements
+- 📌 Actively preparing for software engineering internships and placements
 
 ---
 
 ## Current Focus
 
-**CS Fundamentals**  
-C++ · Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
-
-**Backend Development**  
-Python · FastAPI · PostgreSQL · REST APIs
-
-**AI / LLM**  
-LangChain · RAG Systems · LLMs
-
-**DevOps**  
-Docker · Linux
+```
+CS Fundamentals   →   C++ · DSA · OOP · DBMS · Operating Systems · Computer Networks
+Backend           →   Python · FastAPI · PostgreSQL · REST APIs
+AI / LLM          →   LangChain · RAG Systems · LLMs
+DevOps            →   Docker · Linux
+```
 
 ---
 
 ## Tech Stack
 
+<div align="center">
+
 **Languages**
-`Python` `C++` `Java` `HTML` `CSS`
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
 
 **Backend**
-`Flask` `FastAPI` `REST APIs` `Gunicorn` `SQLAlchemy`
 
-**Databases**
-`SQLite` `PostgreSQL` `Flask-Migrate`
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,sqlite,postgres)](https://skillicons.dev)
 
 **AI / ML**
-`LangChain` `ChromaDB` `LLMs` `Prompt Engineering`
 
-**DevOps / Cloud**
-`Docker` `Linux` `Render`
+[![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+`LangChain` `ChromaDB` `Gemini API`
 
-**Tools**
-`Git` `GitHub` `VS Code`
+**DevOps & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,vscode)](https://skillicons.dev)
+
+</div>
 
 ---
 
 ## Featured Projects
 
-### [BLOGIFY](https://github.com/prasenjitshinde11/BLOGIFY) &nbsp;·&nbsp; [Live Demo ↗](https://blogify-jitt.onrender.com)
+### 🌐 [Blogify](https://github.com/prasenjitshinde11/BLOGIFY) &nbsp;·&nbsp; [Live Demo ↗](https://blogify-jitt.onrender.com)
 
-A full-featured blogging platform with user authentication, social engagement, and production deployment.
+> Full-featured blogging platform with authentication, social features, and production deployment.
 
 | | |
 |---|---|
-| **Stack** | Python · Flask · SQLAlchemy · SQLite/PostgreSQL · Gunicorn |
+| **Stack** | Python · Flask · SQLAlchemy · SQLite · Gunicorn |
 | **Architecture** | Blueprint-based application factory pattern |
 | **Features** | JWT password reset · AJAX likes · full-text search · avatar uploads · DB migrations |
 | **Deployment** | Live on Render |
 
 ---
 
-### [LangPilot](https://github.com/prasenjitshinde11/LangPilot)
+### 🤖 [LangPilot](https://github.com/prasenjitshinde11/LangPilot)
 
-A RAG (Retrieval-Augmented Generation) pipeline for PDF document Q&A using LangChain and ChromaDB.
+> RAG pipeline that answers questions over PDF documents using LangChain and ChromaDB.
 
 | | |
 |---|---|
@@ -79,9 +81,9 @@ A RAG (Retrieval-Augmented Generation) pipeline for PDF document Q&A using LangC
 
 ---
 
-### [BlockNova](https://github.com/prasenjitshinde11/BlockNova)
+### ⛓️ [BlockNova](https://github.com/prasenjitshinde11/BlockNova)
 
-A blockchain simulation demonstrating Proof of Work, RSA wallet generation, and signed transactions via a REST API.
+> Blockchain simulation with Proof of Work consensus, RSA wallet generation, and a REST API.
 
 | | |
 |---|---|
@@ -90,17 +92,36 @@ A blockchain simulation demonstrating Proof of Work, RSA wallet generation, and 
 
 ---
 
+### ✍️ [LinkedIn Post Generator](https://github.com/prasenjitshinde11/linkedin-post-generator)
+
+> CLI and Streamlit app that generates LinkedIn posts using the Google Gemini API.
+
+| | |
+|---|---|
+| **Stack** | Python · Streamlit · Google Gemini API |
+| **Features** | Prompt engineering · CLI + web UI · generative AI integration |
+
+---
+
 ## What I'm Learning
 
-- FastAPI — building async, type-safe REST APIs
-- PostgreSQL — relational database design and query optimization
-- Docker — containerizing applications for consistent deployments
-- System Design — scalability, caching, load balancing fundamentals
+- **FastAPI** — async, type-safe REST APIs
+- **PostgreSQL** — relational database design and query optimization
+- **Docker** — containerizing applications for consistent deployments
+- **System Design** — scalability, caching, load balancing basics
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prasenjit--shinde11-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasenjit-shinde11)
-[![Email](https://img.shields.io/badge/Email-prasenjitshinde27%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prasenjitshinde27@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-prasenjitshinde11-181717?style=flat&logo=github&logoColor=white)](https://github.com/prasenjitshinde11)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prasenjitshinde13-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasenjitshinde13)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-prasenjitshinde27@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasenjitshinde27@gmail.com)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer" />
